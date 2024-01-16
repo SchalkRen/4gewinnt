@@ -1,0 +1,11 @@
+C:\Users\Rene\Source\Repos\4GewinntGit\4Gewinnt\4Gewinnt\bin\Debug\4Gewinnt.exe.config
+C:\Users\Rene\Source\Repos\4GewinntGit\4Gewinnt\4Gewinnt\bin\Debug\4Gewinnt.exe
+C:\Users\Rene\Source\Repos\4GewinntGit\4Gewinnt\4Gewinnt\bin\Debug\4Gewinnt.pdb
+C:\Users\Rene\Source\Repos\4GewinntGit\4Gewinnt\4Gewinnt\obj\Debug\_4Gewinnt.Properties.Resources.resources
+C:\Users\Rene\Source\Repos\4GewinntGit\4Gewinnt\4Gewinnt\obj\Debug\4Gewinnt.csproj.GenerateResource.cache
+C:\Users\Rene\Source\Repos\4GewinntGit\4Gewinnt\4Gewinnt\obj\Debug\4Gewinnt.csproj.CoreCompileInputs.cache
+C:\Users\Rene\Source\Repos\4GewinntGit\4Gewinnt\4Gewinnt\obj\Debug\4Gewinnt.exe
+C:\Users\Rene\Source\Repos\4GewinntGit\4Gewinnt\4Gewinnt\obj\Debug\4Gewinnt.pdb
+C:\Users\Rene\Source\Repos\4GewinntGit\4Gewinnt\4Gewinnt\obj\Debug\_4Gewinnt.Playertokenlist.resources
+C:\Users\Rene\Source\Repos\4GewinntGit\4Gewinnt\4Gewinnt\obj\Debug\_4Gewinnt.Winnerp1.resources
+C:\Users\Rene\Source\Repos\4GewinntGit\4Gewinnt\4Gewinnt\obj\Debug\_4Gewinnt.Winnerp2.resources
